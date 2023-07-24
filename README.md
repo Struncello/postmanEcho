@@ -1,0 +1,1 @@
+[![Gradle Package](https://github.com/Struncello/postmanEcho/actions/workflows/gradle.yml/badge.svg)](https://github.com/Struncello/postmanEcho/actions/workflows/gradle.yml)
